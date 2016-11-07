@@ -1,0 +1,98 @@
+[
+  {
+    "customer_id": 1,
+    "firstName": "ME",
+    "lastName": "YOU",
+    "address": null,
+    "numberPhone": null,
+    "email": "ttdt9t@gmail.com"
+  },
+  {
+    "customer_id": 2,
+    "firstName": "ME",
+    "lastName": "YOU",
+    "address": null,
+    "numberPhone": null,
+    "email": null
+  },
+  {
+    "customer_id": 3,
+    "firstName": "dddd",
+    "lastName": "dsdsdasda",
+    "address": null,
+    "numberPhone": null,
+    "email": "aa55@mail.com"
+  },
+  {
+    "customer_id": 4,
+    "firstName": "dddd",
+    "lastName": "dsdsdasda",
+    "address": null,
+    "numberPhone": null,
+    "email": "aaa@gmail.com"
+  },
+  {
+    "customer_id": 5,
+    "firstName": "dddd",
+    "lastName": "dsdsdasda",
+    "address": null,
+    "numberPhone": null,
+    "email": "aaa@gmail.com"
+  },
+  {
+    "customer_id": 24,
+    "firstName": "ME",
+    "lastName": "YOU",
+    "address": null,
+    "numberPhone": null,
+    "email": "tt3tt@gmail.com"
+  },
+  {
+    "customer_id": 25,
+    "firstName": "ME",
+    "lastName": "YOU",
+    "address": "788 djjdd",
+    "numberPhone": null,
+    "email": "tt5tt@gmail.com"
+  },
+  {
+    "customer_id": 26,
+    "firstName": "ME",
+    "lastName": "YOU",
+    "address": "788 djjdd",
+    "numberPhone": "0126272222",
+    "email": "tt45tt@gmail.com"
+  },
+  {
+    "customer_id": 27,
+    "firstName": "",
+    "lastName": "YOU",
+    "address": "788 djjdd",
+    "numberPhone": "0126272222",
+    "email": "tt32tt@gmail.com"
+  },
+  {
+    "customer_id": 28,
+    "firstName": "",
+    "lastName": "YOU",
+    "address": "788 djjdd",
+    "numberPhone": "0126272222",
+    "email": "tt2tt@gmail.com"
+  },
+  {
+    "customer_id": 29,
+    "firstName": "ME",
+    "lastName": "YOU",
+    "address": "788 djjdd",
+    "numberPhone": "0126272222",
+    "email": "tt4tt@gmail.com"
+  },
+  {
+    "customer_id": 30,
+    "firstName": "ME",
+    "lastName": "YOU",
+    "address": "788 djjdd",
+    "numberPhone": "0126272222",
+    "email": "tt55645tt@gmail.com"
+  }
+]
